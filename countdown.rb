@@ -1,4 +1,7 @@
 #write your code here
 
-def countdown
+def countdown(num)
+  while number < 1 
+    puts ""
+end
 end
